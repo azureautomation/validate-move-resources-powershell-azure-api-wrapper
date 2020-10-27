@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 6449,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/validate-move-resources-powershell-azure-api-wrapper/master/Get-AzResourceMoveValidation.ps1",
+    "DownloadCount": 477,
+    "Id": "Validate-Move-Resources-854bf278",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 130,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-10-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Very powerfull Powershell function which is meant to levearage the Azure API in order to send the query to the backend Azure Resource Manager(ARM) with the specifically constructed JSON body, which contains all resource IDs from the source resource group and the target resource",
+    "Title": "Validate Move Resources - Powershell Azure API Wrapper",
+    "UpdatedDate": "2020-1-15T00:00:00",
+    "Url": "https://github.com/azureautomation/validate-move-resources-powershell-azure-api-wrapper",
+    "UserTags": "Microsoft Azure, Powershell, Migration"
+}
